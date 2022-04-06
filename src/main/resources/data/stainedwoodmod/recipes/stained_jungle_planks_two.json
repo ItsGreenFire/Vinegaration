@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "stainedwoodmod:vinegar_bucket"
+        },
+        {
+            "item": "stainedwoodmod:vinegar_bucket"
+        },
+        {
+            "item": "minecraft:jungle_planks"
+        },
+        {
+            "item": "stainedwoodmod:vinegar_bucket"
+        }
+    ],
+    "result": {
+        "item": "stainedwoodmod:stained_oak_planks",
+        "count": 3
+    }
+}

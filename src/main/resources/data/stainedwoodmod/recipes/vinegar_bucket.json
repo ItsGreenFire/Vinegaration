@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "stainedwoodmod:vinegar_item"
+        },
+        {
+            "item": "stainedwoodmod:vinegar_item"
+        },
+        {
+            "item": "minecraft:bucket"
+        },
+        {
+            "item": "stainedwoodmod:vinegar_item"
+        }
+    ],
+    "result": {
+        "item": "stainedwoodmod:vinegar_bucket",
+        "count": 1
+    }
+}
