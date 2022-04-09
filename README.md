@@ -4,7 +4,7 @@ The Minecraft Forge mod that surrounds all that has to do with vinegar; Vinegara
 
 Vinegeration is an official Forge port of the mod Stained Wood Mod
 
-~~I-I-I~~
+~~I~I~I~~
 
 Originally created by ItsGreenFire
 This project is not to be directly copied
@@ -17,7 +17,7 @@ No user creations will be added to the original files.
 This mod can be used in any modpack.
 Displaying the modpack Vinegeration is included in to the creator is optional, although highly recommended.
 
-~~I-I-I~~
+~~I~I~I~~
 
 Thank you for considering this mod, you will -- **most likely** -- not be disappointed.
 All suggestions are very helpful, and I would love to hear them.
