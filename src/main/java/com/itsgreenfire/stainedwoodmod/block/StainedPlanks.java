@@ -5,7 +5,7 @@ import com.itsgreenfire.stainedwoodmod.item.StainedItems;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
-import net.minecraft.world.level.block.Block;
+import net.minecraft.world.level.block.*;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.Material;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -19,6 +19,31 @@ public class StainedPlanks {
     public static final DeferredRegister<Block> BLOCKS =
             DeferredRegister.create(ForgeRegistries.BLOCKS, VinegarationMod.MOD_ID);
 
+    //Stairs
+    public static final RegistryObject<Block> STAINED_OAK_STAIRS = registerBlock("stained_oak_stairs",
+            () -> new StairBlock(() -> StainedPlanks.STAINED_OAK_PLANKS.get().defaultBlockState(),
+                    BlockBehaviour.Properties.of(Material.WOOD).strength(2f)),
+            CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+
+    // Slabs
+    public static final RegistryObject<Block> STAINED_OAK_SLAB = registerBlock("stained_oak_slab",
+            () -> new SlabBlock(BlockBehaviour.Properties.of(Material.WOOD).strength(2f)),
+            CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+
+    // Fences
+    public static final RegistryObject<Block> STAINED_OAK_FENCE = registerBlock("stained_oak_fence",
+            () -> new FenceBlock(BlockBehaviour.Properties.of(Material.WOOD).strength(2f)),
+            CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+
+    // Gates
+    public static final RegistryObject<Block> STAINED_OAK_GATE = registerBlock("stained_oak_fence_gate",
+            () -> new FenceGateBlock(BlockBehaviour.Properties.of(Material.WOOD).strength(2f)),
+            CreativeModeTab.TAB_BUILDING_BLOCKS);
+
+
     // Blocks
 
     public static final RegistryObject<Block> STAINED_OAK_PLANKS = registerBlock("stained_oak_planks",
@@ -27,23 +52,23 @@ public class StainedPlanks {
 
     public static final RegistryObject<Block> STAINED_SPRUCE_PLANKS = registerBlock("stained_spruce_planks",
             () -> new Block(BlockBehaviour.Properties.of(Material.WOOD)
-                    .strength(4f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
+                    .strength(2f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
 
     public static final RegistryObject<Block> STAINED_DARK_OAK_PLANKS = registerBlock("stained_dark_oak_planks",
             () -> new Block(BlockBehaviour.Properties.of(Material.WOOD)
-                    .strength(4f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
+                    .strength(2f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
 
     public static final RegistryObject<Block> STAINED_BIRCH_PLANKS = registerBlock("stained_birch_planks",
             () -> new Block(BlockBehaviour.Properties.of(Material.WOOD)
-                    .strength(4f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
+                    .strength(2f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
 
     public static final RegistryObject<Block> STAINED_JUNGLE_PLANKS = registerBlock("stained_jungle_planks",
             () -> new Block(BlockBehaviour.Properties.of(Material.WOOD)
-                    .strength(4f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
+                    .strength(2f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
 
     public static final RegistryObject<Block> STAINED_ACACIA_PLANKS = registerBlock("stained_acacia_planks",
             () -> new Block(BlockBehaviour.Properties.of(Material.WOOD)
-                    .strength(4f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
+                    .strength(2f)), CreativeModeTab.TAB_BUILDING_BLOCKS);
 
 
 
