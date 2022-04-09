@@ -27,9 +27,3 @@ Planned Features -
 2. Soggy Wood
 3. Colored Wood
 4. Other types of wooden stairs, fences, gates and slabs
-All suggestions are very helpful and I would love to hear them.
-
-Planned Features -
-1. Pickler
-2. Soggy Wood
-3. Colored Wood
