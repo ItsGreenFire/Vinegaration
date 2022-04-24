@@ -1,6 +1,11 @@
 {
   "replace": false,
   "values": [
-    "stainedwoodmod:stained_oak_fence"
+    "stainedwoodmod:stained_oak_fence",
+    "stainedwoodmod:stained_spruce_fence",
+    "stainedwoodmod:stained_acacia_fence",
+    "stainedwoodmod:stained_dark_oak_fence",
+    "stainedwoodmod:stained_birch_fence",
+    "stainedwoodmod:stained_jungle_fence"
   ]
 }

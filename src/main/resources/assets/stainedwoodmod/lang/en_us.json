@@ -7,13 +7,37 @@
   "block.stainedwoodmod.stained_birch_planks": "Stained Birch Planks",
 
   "block.stainedwoodmod.stained_oak_stairs": "Stained Oak Stairs",
+  "block.stainedwoodmod.stained_spruce_stairs": "Stained Spruce Stairs",
+  "block.stainedwoodmod.stained_acacia_stairs": "Stained Acacia Stairs",
+  "block.stainedwoodmod.stained_dark_oak_stairs": "Stained Dark Oak Stairs",
+  "block.stainedwoodmod.stained_jungle_stairs": "Stained Jungle Stairs",
+  "block.stainedwoodmod.stained_birch_stairs": "Stained Birch Stairs",
 
   "block.stainedwoodmod.stained_oak_fence": "Stained Oak Fence",
+  "block.stainedwoodmod.stained_spruce_fence": "Stained Spruce Fence",
+  "block.stainedwoodmod.stained_acacia_fence": "Stained Acacia Fence",
+  "block.stainedwoodmod.stained_dark_oak_fence": "Stained Dark Oak Fence",
+  "block.stainedwoodmod.stained_jungle_fence": "Stained Jungle Fence",
+  "block.stainedwoodmod.stained_birch_fence": "Stained Birch Fence",
 
   "block.stainedwoodmod.stained_oak_fence_gate": "Stained Oak Gate",
+  "block.stainedwoodmod.stained_spruce_fence_gate": "Stained Spruce Gate",
+  "block.stainedwoodmod.stained_acacia_fence_gate": "Stained Acacia Gate",
+  "block.stainedwoodmod.stained_dark_oak_fence_gate": "Stained Dark Oak Gate",
+  "block.stainedwoodmod.stained_jungle_fence_gate": "Stained Jungle Gate",
+  "block.stainedwoodmod.stained_birch_fence_gate": "Stained Birch Gate",
 
   "block.stainedwoodmod.stained_oak_slab": "Stained Oak Slab",
+  "block.stainedwoodmod.stained_spruce_slab": "Stained Spruce Slab",
+  "block.stainedwoodmod.stained_acacia_slab": "Stained Acacia Slab",
+  "block.stainedwoodmod.stained_dark_oak_slab": "Stained Dark Oak Slab",
+  "block.stainedwoodmod.stained_jungle_slab": "Stained Jungle Slab",
+  "block.stainedwoodmod.stained_birch_slab": "Stained Birch Slab",
 
   "item.stainedwoodmod.vinegar_item": "Vinegar",
-  "item.stainedwoodmod.vinegar_bucket": "Vinegar Bucket"
+  "item.stainedwoodmod.vinegar_bucket": "Vinegar Bucket",
+
+  "block.stainedwoodmod.pickling_station": "Pickling Station",
+
+  "itemgroup.stainedwoodmod.stained_wood_tab": "Stained Wood"
 }

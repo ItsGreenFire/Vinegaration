@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "stainedwoodmod:block/stained_jungle_slab"
+    },
+    "type=double": {
+      "model": "stainedwoodmod:block/stained_jungle_planks"
+    },
+    "type=top": {
+      "model": "stainedwoodmod:block/stained_jungle_slab_top"
+    }
+  }
+}

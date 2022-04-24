@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "stainedwoodmod:block/stained_birch_slab"
+    },
+    "type=double": {
+      "model": "stainedwoodmod:block/stained_birch_planks"
+    },
+    "type=top": {
+      "model": "stainedwoodmod:block/stained_birch_slab_top"
+    }
+  }
+}
