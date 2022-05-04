@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model":  "stainedwoodmod:block/pickling_station"},
+    "facing=east": {"model":  "stainedwoodmod:block/pickling_station", "y": 90},
+    "facing=south": {"model":  "stainedwoodmod:block/pickling_station", "y": 180},
+    "facing=west": {"model":  "stainedwoodmod:block/pickling_station", "y": 270}
+  }
+}

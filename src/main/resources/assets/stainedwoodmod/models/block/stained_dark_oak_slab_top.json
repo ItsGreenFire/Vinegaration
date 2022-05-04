@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "stainedwoodmod:block/stained_dark_oak_planks",
+    "top": "stainedwoodmod:block/stained_dark_oak_planks",
+    "side": "stainedwoodmod:block/stained_dark_oak_planks"
+  }
+}

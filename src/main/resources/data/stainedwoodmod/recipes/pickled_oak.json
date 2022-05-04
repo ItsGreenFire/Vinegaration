@@ -1,0 +1,11 @@
+{
+  "type": "stainedwoodmod:pickling",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_planks"
+    }
+  ],
+  "output": {
+    "item": "stainedwoodmod:stained_oak_planks"
+  }
+}
