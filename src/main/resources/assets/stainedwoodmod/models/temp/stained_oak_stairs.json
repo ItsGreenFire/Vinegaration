@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/stairs",
-  "textures": {
-    "bottom": "stainedwoodmod:block/stained_oak_planks",
-    "top": "stainedwoodmod:block/stained_oak_planks",
-    "side": "stainedwoodmod:block/stained_oak_planks"
-  }
-}

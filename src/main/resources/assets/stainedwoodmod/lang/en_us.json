@@ -37,7 +37,7 @@
   "item.stainedwoodmod.vinegar_item": "Vinegar",
   "item.stainedwoodmod.vinegar_bucket": "Vinegar Bucket",
 
-  "block.stainedwoodmod.pickling_station": "Pickling Station",
+  "block.stainedwoodmod.pickling_station": "§4Pickling Station §c[Not Usable Until v0.6]",
 
   "itemgroup.stainedwoodmod.stained_wood_tab": "Stained Wood"
 }
